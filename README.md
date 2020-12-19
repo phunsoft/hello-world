@@ -1,2 +1,4 @@
 # hello-world
-Learning how to use git hub, what else
+Learning how to use git, what else!
+
+Old mainframer learning how to use Git
